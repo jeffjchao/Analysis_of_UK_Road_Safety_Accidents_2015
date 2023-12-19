@@ -1,4 +1,4 @@
-# UK Road Safty 2015 data
+# UK Road Safety 2015 data
 import pymysql
 
 myConnection = pymysql.connect(
